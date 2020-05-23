@@ -6,7 +6,7 @@ This project integrates an online database (Mongo DB) with a BootStrap web templ
 The project also included a brief attempt to develop a personal, professional portfolio using an html template with CSS styling.
 
 ## Portfolio Images
-![Brief Portfolio](portfolioSK.png) 
+![Brief Portfolio](portfolioSK1.png) 
 
 
 ![Screenshot of Mars Website](Martian.png)
